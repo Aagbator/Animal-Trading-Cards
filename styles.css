@@ -1,0 +1,29 @@
+/* add your CSS here */
+
+.card{
+    border:1px solid #ccc;
+    border-top: 3px solid #f48613;
+    box-shadow: 2px 2px 1px 3px rgba(1,1,1,.1);
+    width:300px;
+    padding: 20px;
+}
+
+.card img{
+    width:300px;
+    border-radius: 10px;
+}
+
+.specification{
+    margin-top:10px;
+    border:1px solid #ccc;
+    padding:5px 10px;
+}
+
+.list{
+    list-style-type: none;
+    padding-left:0;
+}
+
+.list li span{
+    font-weight: bold;
+}
